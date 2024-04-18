@@ -123,3 +123,4 @@ StatementMacros:
   - QT_REQUIRE_VERSION
 TabWidth:        8
 UseTab:          Never
+6
